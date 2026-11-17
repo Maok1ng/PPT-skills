@@ -1,0 +1,7 @@
+interface:
+  display_name: "Tongji Paper Report · 同济论文汇报"
+  short_description: "中文论文课程汇报专属模板：黑白版式、同济校标、公式原图表、内容精炼"
+  icon_large: "./assets/preview.png"
+  default_prompt: "使用 $artifact-template-tongji-paper-report 阅读这篇论文，按我的同济黑白模板制作20–22页中文课程汇报，突出公式、推导和论文原图表。"
+policy:
+  allow_implicit_invocation: true
